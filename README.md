@@ -1,7 +1,7 @@
 <h1 align="center"> Agenda Copa do Mundo 2022 </h1>
 
 <p align="center">
-Agenda com os jogos que deseja assistir durante a Copa do Mundo do Catar 2022 com data e horário dos jogos.
+Agenda pessoal com os jogos que deseja assistir durante a Copa do Mundo do Catar 2022 com data e horário dos jogos.
 </p>
 
 <p align="center">
