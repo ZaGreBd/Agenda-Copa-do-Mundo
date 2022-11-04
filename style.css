@@ -95,3 +95,30 @@ header {
   line-height: 125%;
   color: #e1e1e6;
 }
+
+.card h2,
+.card ul li strong,
+.card ul li img {
+  transition: transform 0.3s;
+}
+
+.card h2:hover,
+.card ul li strong:hover,
+.card ul li img:hover {
+  transform: scale(1.1);
+}
+
+.card {
+  animation: appear 1s;
+}
+
+@keyframes appear {
+  0% {
+    transform: translateY(-25px);
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
